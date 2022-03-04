@@ -1,0 +1,25 @@
+.col-md-10{
+   
+    color: aliceblue;
+    align-items: center;
+
+}
+.footmain{
+    background-color: blue;
+    
+    color: white;
+
+}
+#mydiv{ 
+    border: dotted 1px black;
+ }
+ p.dotted {
+     border-style: dotted;
+     height: 70px;
+    }
+.col-sm-9{
+    padding-left: 70px;
+}
+.col-sm-3{
+    padding-left: 30px;
+}
